@@ -1,0 +1,1325 @@
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+H:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+E:\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v1\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+H:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v2 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v3\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v4\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v6\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v8\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v9\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v11\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v12\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v13\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v14\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v14 - Cópia\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Cópia - Chega\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v14 - Fim\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v17\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+E:\Trab_LP_BD_v18\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\Usuario\Desktop\Trab_LP_BD_v19\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v19 v2\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v20\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v21\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+C:\Users\082170016\Desktop\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.deps.json
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.json
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.runtimeconfig.dev.json
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.dll
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\bin\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csprojAssemblyReference.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CoreCompileInputs.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorAssemblyInfo.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfoInputs.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.AssemblyInfo.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.input.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.TagHelpers.output.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorCoreGenerate.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Detalhes.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Carrinho\Visualizar.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Form.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Form.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Form.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Funcionario\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Form.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Local\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Form.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Form.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Produtos\Index.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cache
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.RazorTargetAssemblyInfo.cs
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.Views.pdb
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.dll
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.pdb
+H:\EC\EC 5\Trabalho N2\082170016\Trab_LP_BD_v22\Trab_LP_BD_v1\obj\Debug\netcoreapp2.1\Trab_LP_BD_v1.csproj.CopyComplete

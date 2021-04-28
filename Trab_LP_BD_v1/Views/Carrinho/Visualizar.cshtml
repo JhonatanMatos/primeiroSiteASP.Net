@@ -1,0 +1,40 @@
+﻿@model List<CarrinhoViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Produtos no carrinho</h2>
+
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Imagem</th>
+        <th>Produtos</th>
+        <th>Quantidade</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ImagemEmBase64</td>
+            <td>@item.Nome</td>
+            <td>@item.Quantidade</td>
+        </tr>
+    }
+</table>
+
+<br />
+<a href="/Carrinho/Index">Retornar para as compras</a>
+<br />
+<a href="/Carrinho/EfetuarPedido">Efetuar a compra!</a>
+
+<script>
+    function verImagem() {
+        var oFReader = new FileReader();
+        oFReader.readAsDataURL(document.getElementById("Imagem").files[0]);
+        oFReader.onload = function (oFREvent) {
+            document.getElementById("imgPreview").src = oFREvent.target.result;
+        };
+    }
+</script>

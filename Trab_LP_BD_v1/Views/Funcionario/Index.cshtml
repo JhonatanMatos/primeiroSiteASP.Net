@@ -1,0 +1,40 @@
+﻿@model List<FuncionarioViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="~/css/teste.css" />
+<h2>Listagem de Funcionários</h2>
+
+<a href="/funcionario/create" class="glyphicon glyphicon-plus">Adicionar</a>
+<br />
+
+<div style="overflow-x:auto;">
+    <table class="table table-bordered">
+        <tr>
+            <th scope="col">Ações</th>
+            <th scope="col">Id</th>
+            <th scope="col">Nome</th>
+        </tr>
+
+        @foreach (var funcionario in Model)
+        {
+            <tr>
+                <td>
+                    <a href="funcionario/Edit?id=@funcionario.Id" class="glyphicon glyphicon-pencil"></a>
+                    <a href="javascript:apagarfuncionario(@funcionario.Id)" class="glyphicon glyphicon-trash"></a>
+                </td>
+                <td>@funcionario.Id</td>
+                <td>@funcionario.Nome</td>
+            </tr>
+        }
+    </table>
+
+</div>
+<script>
+    function apagarfuncionario(id) {
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = 'funcionario/Delete?id=' + id;
+    }
+</script>

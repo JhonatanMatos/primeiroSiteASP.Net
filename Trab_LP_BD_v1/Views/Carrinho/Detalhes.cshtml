@@ -1,0 +1,42 @@
+﻿@model CarrinhoViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Escolha os produtos</h2>
+
+<br />
+<br />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AdicionarCarrinho">
+            <input asp-for="ProdutoId" hidden />
+
+            <img id="imgPreview" src="data:image/jpeg;base64,@Model.ImagemEmBase64" class="img-responsive" width="50">
+            <br />
+            <strong>@Model.Nome</strong>
+            <br />
+            <br />
+            Quantidade:
+            <br />
+            <input asp-for="Quantidade" />
+
+            <br />
+            <br />
+            <input type="submit" value="Adicionar ao carrinho" class="btn btn-primary" />
+
+            <br />
+            <span class="text-danger">@ViewBag.Erro</span>
+        </form>
+    </div>
+</div>
+
+<script>
+    function verImagem() {
+        var oFReader = new FileReader();
+        oFReader.readAsDataURL(document.getElementById("Imagem").files[0]);
+        oFReader.onload = function (oFREvent) {
+            document.getElementById("imgPreview").src = oFREvent.target.result;
+        };
+    }
+</script>

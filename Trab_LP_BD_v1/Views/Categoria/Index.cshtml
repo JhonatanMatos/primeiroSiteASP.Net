@@ -1,0 +1,52 @@
+﻿@model List<CategoriaViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="~/css/teste.css" />
+
+<h2>Listagem de Categorias</h2>
+
+
+<a href="/categoria/create" class="glyphicon glyphicon-plus">Adicionar</a>
+
+<br />
+
+
+<div style="overflow-x:auto;">
+
+    <table class="table table-bordered">
+
+        <tr>
+
+            <th scope="col">Ações</th>
+            
+            <th scope="col">Id</th>
+            <th scope="col">Descrição</th>
+
+        </tr>
+
+
+        @foreach (var categoria in Model)
+        {
+            <tr>
+
+                <td>
+                    <a href="categoria/Edit?id=@categoria.Id" class="glyphicon glyphicon-pencil"></a>
+                    <a href="javascript:apagarcategoria(@categoria.Id)" class="glyphicon glyphicon-trash"></a>
+                </td>
+
+                <td>@categoria.Id</td>
+                <td>@categoria.Descricao</td>
+            </tr>
+        }
+    </table>
+
+</div>
+<script>
+    function apagarcategoria(id) {
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = 'categoria/Delete?id=' + id;
+    }
+</script>

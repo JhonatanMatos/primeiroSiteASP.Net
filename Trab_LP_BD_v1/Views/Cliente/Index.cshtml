@@ -1,0 +1,53 @@
+﻿@model List<ClienteViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" media="screen" href="~/css/teste.css" />
+
+<br />
+<h2 style="color:black;">Clientes</h2>
+
+<a href="/cliente/create" class="glyphicon glyphicon-plus">Adicionar</a>
+<br />
+
+<div style="overflow-x:auto;">
+
+    <table class="table table-bordered">
+        <tr>
+            <th scope="col">Ações</th>
+            <th scope="col">Id</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Data de Nascimento</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Endereco</th>
+            <th scope="col">Telefone</th>
+            <th scope="col">Email</th>
+        </tr>
+
+        @foreach (var cliente in Model)
+        {
+        <tr>
+            <td>
+                
+                <a href="cliente/Edit?id=@cliente.Id" class="glyphicon glyphicon-pencil"></a>
+                <a href="javascript:apagarcliente(@cliente.Id)" class="glyphicon glyphicon-trash"></a>
+            </td>
+            <td>@cliente.Id</td>
+            <td>@cliente.Nome</td>
+            <td>@cliente.Nasc.ToShortDateString()</td>
+            <td>@cliente.Sexo</td>
+            <td>@cliente.Endereco</td>
+            <td>@cliente.Telefone</td>
+            <td>@cliente.Email</td>
+        </tr>
+        }
+    </table>
+
+</div>
+<script>
+    function apagarcliente(id) {
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = 'cliente/Delete?id=' + id;
+    }
+</script>

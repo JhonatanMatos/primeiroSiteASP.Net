@@ -1,0 +1,47 @@
+﻿@model List<ProdutosViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" media="screen" href="~/css/teste.css" />
+
+<h2>Listagem de Produtos</h2>
+
+<a href="/produtos/create" class="glyphicon glyphicon-plus">Adicionar</a>
+
+<br />
+
+<div style="overflow-x:auto;">
+    <table class="table table-bordered">
+        <tr>
+
+            <th scope="col">Ações</th>
+
+            <th scope="col">Id</th>
+            <th scope="col">Descrição</th>
+            <th scope="col">CategoriaId</th>
+            <th scope="col">Preço</th>
+        </tr>
+
+        @foreach (var produtos in Model)
+        {
+            <tr>
+
+                <td>
+                    <a href="produtos/Edit?id=@produtos.Id" class="glyphicon glyphicon-pencil"></a>
+                    <a href="javascript:apagarprodutos(@produtos.Id)" class="glyphicon glyphicon-trash"></a>
+                </td>
+                <td class="w3">@produtos.Id</td>
+                <td>@produtos.Descricao</td>
+                <td>@produtos.CategoriaId</td>
+                <td>@produtos.Preco.ToString("0.00")</td>
+            </tr>
+        }
+    </table>
+</div>
+<script>
+    function apagarprodutos(id) {
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = 'produtos/Delete?id=' + id;
+    }
+</script>

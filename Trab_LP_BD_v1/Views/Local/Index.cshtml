@@ -1,0 +1,36 @@
+﻿@model List<LocalViewModel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listagem de Locais</h2>
+
+<a href="/local/create">Novo Registro</a>
+<br />
+
+<table class="table table-responsive">
+    <tr>
+        <th>Ações</th>
+        <th>Id</th>
+        <th>Endereço</th>        
+    </tr>
+
+    @foreach (var local in Model)
+    {
+        <tr>
+            <td>
+                <a href="local/Edit?id=@local.Id">Editar</a>
+                <a href="javascript:apagarlocal(@local.Id)">Apagar</a>
+            </td>
+            <td>@local.Id</td>
+            <td>@local.Endereco</td>            
+        </tr>
+    }
+</table>
+
+<script>
+    function apagarlocal(id) {
+        if (confirm('Confirma a exclusão do registro?'))
+            location.href = 'local/Delete?id=' + id;
+    }
+</script>
