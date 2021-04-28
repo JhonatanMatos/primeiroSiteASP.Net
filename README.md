@@ -1,7 +1,7 @@
 
 > Atividade realizada no curso de Engenharia da computação usando o conteudo desenvolvido na matéria de Logica de Programação em conjunto com Banco de
 
-# :gear: **Informações Tecnicas**
+# :gear: **Informações Técnicas**
 - ASP.Net Core MVC
 - Banco de Dados usado no projeto: SQL Server
 
