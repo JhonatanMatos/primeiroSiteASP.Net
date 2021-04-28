@@ -1,4 +1,3 @@
-# :necktie: **UASH**
 
 > Atividade realizada no curso de Engenharia da computação usando o conteudo desenvolvido na matéria de Logica de Programação em conjunto com Banco de
 
